@@ -1,7 +1,5 @@
 #python file
-#$testing Trail
-#third comment
-#teatTrailCheck
+main
 import webapp2
 
 
